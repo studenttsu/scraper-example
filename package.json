@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "babel-node index.js",
-    "start": "node index.js"
+    "start": "babel-node index.js",
   },
   "keywords": [],
   "author": "",
